@@ -12,6 +12,14 @@ sh install.sh
 - 协议 tcp
 
 
+# v2ray windows客户端
+
+[下载地址](https://tlanyan.me/v2ray-clients-download/)
+  
+  	
+
+
+
 # 高阶配置
 命令行运行以下命令,自行查看
 ```
